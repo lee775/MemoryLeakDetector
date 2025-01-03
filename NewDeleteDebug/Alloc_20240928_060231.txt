@@ -1,0 +1,3 @@
+LEAK	[0x22137376][Line : 49] C:\Users\a\source\repos\NewDeleteDebug\NewDeleteDebug\NewDeleteDebug.cpp
+LEAK	[0x22250456][Line : 13] C:\Users\a\source\repos\NewDeleteDebug\NewDeleteDebug\NewDeleteDebug.cpp
+NOALLOC [0x22260456][Line : 67] C:\Users\a\source\repos\NewDeleteDebug\NewDeleteDebug\NewDeleteDebug.cpp

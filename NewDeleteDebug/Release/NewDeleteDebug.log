@@ -1,0 +1,10 @@
+﻿  NewDeleteDebug.cpp
+C:\Users\a\source\repos\NewDeleteDebug\NewDeleteDebug\NewDeleteDebug.cpp(39,13): warning C4291: 'void *operator new[](size_t,const char *,int)': 일치하는 operator delete가 없습니다. 초기화할 때 예외가 Throw되지 않으면 메모리가 확보되지 않습니다.
+C:\Users\a\source\repos\NewDeleteDebug\NewDeleteDebug\NewDeleteDebug.cpp(49,23): warning C4291: 'void *operator new(size_t,const char *,int)': 일치하는 operator delete가 없습니다. 초기화할 때 예외가 Throw되지 않으면 메모리가 확보되지 않습니다.
+C:\Users\a\source\repos\NewDeleteDebug\NewDeleteDebug\NewDeleteDebug.cpp(50,20): warning C4291: 'void *operator new[](size_t,const char *,int)': 일치하는 operator delete가 없습니다. 초기화할 때 예외가 Throw되지 않으면 메모리가 확보되지 않습니다.
+  코드를 생성하고 있습니다.
+  8 of 114 functions ( 7.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  NewDeleteDebug.vcxproj -> C:\Users\a\source\repos\NewDeleteDebug\Release\NewDeleteDebug.exe
